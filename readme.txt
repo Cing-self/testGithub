@@ -1,16 +1,1 @@
-<<<<<<< HEAD
 hello atguigu! hello git master
-hello atguigu! hello git 123123hotfi
-hello atguigu! hello git hot-fix
-hello atguigu! hello git
-hello atguigu! hello git
-hello atguigu! hello git
-hello atguigu! hello git
-hello atguigu! hello git
-hello atguigu! hello git
-hello atguigu! hello git
-hello atguigu! hello git
-hello atguigu! hello git
-hello atguigu! hello git
-hello atguigu! hello git
-hello atguigu! hello git
